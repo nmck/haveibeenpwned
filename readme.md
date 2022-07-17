@@ -2,7 +2,7 @@
 
 A HaveIBeenPwned CLI written in Go.
 
-Currently it can query the [Pwned Passwords API]('https://haveibeenpwned.com/Passwords')
+Currently it can query the [Pwned Passwords API](https://haveibeenpwned.com/Passwords)
 
 ## Run our Docker Container
 
